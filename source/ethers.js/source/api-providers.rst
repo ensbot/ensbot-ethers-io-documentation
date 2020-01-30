@@ -795,7 +795,7 @@ If a network does not have the ENS contract deployed to it, names cannot be reso
     let network = ethers.providers.getNetwork('homestead');
     // {
     //    chainId: 1,
-    //    ensAddress: "0x314159265dd8dbb310642f98f50c066173c1259b",
+    //    ensAddress: "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
     //    name: "homestead"
     // }
 
